@@ -10,9 +10,9 @@ Este proyecto es parte de mi práctica en el uso de APIs en Python, en particula
 - Se analizaron las diferencias de puntos (`PLUS_MINUS`) y los promedios de puntos anotados.
 - Se realizaron visualizaciones para evaluar si jugar de local influye en el rendimiento.
 
-## Uso de respaldo
+## Nota sobre el acceso a la API
 
-Para entornos sin acceso a la API, se incluye un archivo `.pkl` con los datos ya procesados, lo que permite continuar con el análisis sin conexión.
+La API de la NBA puede presentar restricciones de acceso debido a políticas de la liga y limitaciones técnicas. Por esta razón, se incluye un archivo `Golden_State.pkl` que contiene los datos procesados necesarios para el análisis, permitiendo la ejecución del proyecto sin depender de la disponibilidad de la API.
 
 ## Librerías utilizadas
 
