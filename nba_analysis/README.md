@@ -1,33 +1,34 @@
 # Análisis de Partidos de los Golden State Warriors vs Toronto Raptors
 
-Este proyecto es una práctica para aprender a usar APIs en Python, en particular la **NBA API**, junto con `pandas` y `matplotlib`. El objetivo fue analizar cómo les fue a los **Golden State Warriors** contra los **Toronto Raptors**.
+Este proyecto es parte de mi práctica en el uso de APIs en Python, en particular la **NBA API**, junto con `pandas` y `matplotlib`. El objetivo fue analizar el rendimiento de los **Golden State Warriors** frente a los **Toronto Raptors**.
 
-## Qué hice
+## Qué se realizó
 
-- Usé la API oficial de la NBA para obtener el ID del equipo Warriors.
-- Consulté todos los partidos que jugaron y filtré solo los que fueron contra Toronto.
-- Separé los partidos en **local** y **visitante**.
-- Analicé la diferencia de puntos (`PLUS_MINUS`) y el promedio de puntos anotados.
-- Hice gráficos para ver si jugar de local influye en el rendimiento.
+- Se obtuvo el ID del equipo Warriors mediante la API oficial de la NBA.
+- Se consultaron todos los partidos y se filtraron aquellos jugados contra Toronto.
+- Se separaron los partidos en condición de **local** y **visitante**.
+- Se analizaron las diferencias de puntos (`PLUS_MINUS`) y los promedios de puntos anotados.
+- Se realizaron visualizaciones para evaluar si jugar de local influye en el rendimiento.
 
-## Extra
+## Uso de respaldo
 
-Si no se puede usar la API (por ejemplo, en entornos sin conexión), también usé un archivo `.pkl` con los datos ya guardados para poder seguir trabajando.
+Para entornos sin acceso a la API, se incluye un archivo `.pkl` con los datos ya procesados, lo que permite continuar con el análisis sin conexión.
 
-## Librerías usadas
+## Librerías utilizadas
 
 - `nba_api`
 - `pandas`
 - `matplotlib`
-- `requests` (para descargar el archivo de respaldo)
+- `requests`
 
-## Visualizaciones
+## Visualizaciones incluidas
 
 1. Diferencia de puntos por fecha de partido.
-2. Comparación de puntos promedio como local y visitante.
+2. Comparación de puntos promedio como local y como visitante.
 
 ---
 
+Este análisis forma parte de mi proceso de formación en Ciencia de Datos. El código está documentado con fines educativos.
 
 
 
