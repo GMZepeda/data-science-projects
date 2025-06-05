@@ -28,7 +28,7 @@ La API de la NBA puede presentar restricciones de acceso debido a políticas de 
 
 ---
 
-Este análisis forma parte de mi proceso de formación en Ciencia de Datos. El código está documentado con fines educativos.
+Este análisis forma parte de mi proceso de formación en Ciencia de Datos. 
 
 
 
