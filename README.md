@@ -1,6 +1,6 @@
 # data-science-projects
 
-Repositorio con proyectos prácticos del curso de "Python for Data Science, AI & Development (IBM)".
+Repositorio con proyectos prácticos del curso de **Python for Data Science, AI & Development (IBM)**.
 
 ## Contenido
 
