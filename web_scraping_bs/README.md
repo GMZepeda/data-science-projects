@@ -19,7 +19,7 @@ El objetivo es aplicar técnicas básicas de Web Scraping usando la biblioteca *
 - Python 3.x
 - `beautifulsoup4`
 - `requests`
-- `html5lib` (opcional pero recomendado)
+- `html5lib` 
 
 ## Archivo incluido
 
