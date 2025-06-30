@@ -1,6 +1,6 @@
 # data-science-projects
 
-Repositorio con proyectos prácticos del curso de **Python for Data Science, AI & Development (IBM)**.
+Repositorio con proyectos prácticos del curso de **Python for Data Science, AI & Development (IBM)** y de la **IBM Data Science Professional Certificate**.
 
 ## Contenido
 
@@ -8,8 +8,8 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
 - [pib_analysis](./pib_analysis/pib_web_scraping.ipynb.ipynb): Web scraping y análisis del PIB de países con Pandas.
 - [web_scraping_bs](./web_scraping_bs/web_scraping_beautifulsoup.ipynb.ipynb): Laboratorio de scraping con BeautifulSoup. Extracción de texto, enlaces, imágenes y tablas desde HTML.
 - [stock-analysis-yfinance](./stock-analysis-yfinance/stock-analysis-yfinance.ipynb): Extracción de datos históricos bursátiles con yfinance (acciones de Amazon y Apple).
-
-
+- [webscraping_datos_bursatiles](./webscraping_datos_bursatiles.ipynb): Web Scraping de Datos Bursátiles (Netflix y Amazon).
+  
 Cada carpeta contiene su propio notebook con el análisis detallado. 
 
 ---
