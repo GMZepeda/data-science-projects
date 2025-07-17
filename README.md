@@ -9,7 +9,7 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
 - [web_scraping_bs](./web_scraping_bs): Laboratorio de scraping con BeautifulSoup. Extracción de texto, enlaces, imágenes y tablas desde HTML.
 - [stock-analysis-yfinance](./stock-analysis-yfinance): Extracción de datos históricos bursátiles con yfinance (acciones de Amazon y Apple).
 - [webscraping_datos_bursatiles](./webscraping_datos_bursatiles): Web Scraping de Datos Bursátiles (Netflix y Amazon).
-- [earnings_data_Tesla_Gamestop](./earnings_data_Tesla_Gamestop): Análisis de beneficios (EPS) y precios de acciones de Tesla y GameStop. Cálculo del ratio P/E y visualización con Plotly y Dash.
+- [earnings_analysis](./earnings_data_Tesla_Gamestop): Análisis de beneficios (EPS) y precios de acciones de Tesla y GameStop. Cálculo del ratio P/E y visualización con Plotly y Dash.
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
 
