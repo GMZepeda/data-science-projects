@@ -11,6 +11,8 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
 - [webscraping_datos_bursatiles](./webscraping_datos_bursatiles): Web Scraping de Datos Bursátiles (Netflix y Amazon).
 - [earnings_analysis](./earnings_analysis/earnings_data_Tesla_Gamestop.ipynb)
 : Análisis de beneficios (EPS) y precios de acciones de Tesla y GameStop. Cálculo del ratio P/E y visualización con Plotly y Dash.
+- [earnings_analysis](./earnings_analysis/FinalAssignment-v2.ipynb): Extracción de datos con `yfinance` y Web Scraping. Análisis de ingresos y precios históricos de Tesla y GameStop. Visualización interactiva con Plotly. Incluye limpieza de datos y resolución de errores comunes.
+
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
 
