@@ -1,6 +1,7 @@
 # Earnings Analysis V2
 
-Este proyecto contiene un análisis de ingresos y precios de acciones de Tesla y GameStop hasta mediados de 2021.
+Este proyecto contiene un análisis de ingresos y precios de acciones de Tesla y GameStop hasta mediados de 2021. 
+Es un proyecto educativo como parte de necesaria para la aprobacion del curso "Python Project for Data Science" de la Certidicación Profesional en Data Science de IBM.
 
 ### Herramientas utilizadas:
 - `yfinance` para extraer datos históricos bursátiles
