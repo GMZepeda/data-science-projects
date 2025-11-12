@@ -15,7 +15,7 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
 - [sql-learning](./sql-learning): Databases and SQL for Data Science with Python (IBM). Módulos 1-4 con PostgreSQL.
   - Módulo 1: DDL, DML, SELECT, COUNT, DISTINCT, LIMIT
   - Módulo 2: ALTER, INSERT, UPDATE, DELETE, TRUNCATE
-  - Módulo 3: LIKE, ORDER BY, GROUP BY, funciones de agregación, funciones de fecha
+  - Módulo 3: LIKE, ORDER BY, GROUP BY, funciones de agregación, funciones de fecha,subconsultas y selecciones anidadas, trabajo con múltiples tablas, funciones y JOIN implícito.
   - Modulo 4: Próximamente
 
   
