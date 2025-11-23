@@ -17,6 +17,7 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
   - [Módulo 2](./sql-learning/modulo-2.sql): ALTER, INSERT, UPDATE, DELETE, TRUNCATE
   - [Módulo 3](./sql-learning/modulo-3.sql): LIKE, ORDER BY, GROUP BY, funciones de agregación, funciones de fecha, subconsultas y selecciones anidadas, trabajo con múltiples tablas, funciones y JOIN implícito.
   - [Modulo 4.1](./sql-learning/modulo-4.1.ipynb): Crear y acceder a base de datos SQLite con Python, crear tablas, insertar datos, consultar datos, trabajo con Pandas DataFrames, operaciones CRUD, gestión de conexiones.
+  - [Modulo 4.2](./): Queries SQL en Jupyter con SQL Magic, conexión a bases SQLite, ejecución de celdas %sql y %%sql, creación de tablas, inserción de datos, lectura de resultados, conversión a DataFrames y visualización con Matplotlib/Seaborn.
 
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
