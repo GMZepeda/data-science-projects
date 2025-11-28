@@ -41,7 +41,7 @@ Proyecto de análisis exploratorio de indicadores reales de Chicago.
 * Consultas SQL para análisis de datos.
 * Visualización de correlaciones.
 
-### [Análisis de la EPH (Argentina) - 2° Trimestre 2025](./analisis_eph)
+### [Análisis de la EPH (Argentina) - 2° Trimestre 2025](./EPH_2025_T2.ipynb)
 Proyecto de procesamiento y análisis de la Encuesta Permanente de Hogares (INDEC), enfocado en el **Aglomerado Viedma - Carmen de Patagones**.
 * **Tecnologías:** Python, Pandas, SQLite3, SQL Magic (`%sql`).
 * **ETL:** Carga de datasets `.xlsx` (Hogar e Individual) y transformación a base de datos relacional SQLite.
