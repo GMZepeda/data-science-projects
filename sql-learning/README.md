@@ -50,3 +50,11 @@ Proyecto de procesamiento y análisis de la Encuesta Permanente de Hogares (INDE
   * Segmentación de régimen de tenencia de vivienda (propietarios vs. inquilinos).
   * Análisis de distribución de ingresos y estimación de pobreza según CBT.
  
+#### Datos de la EPH
+Los archivos originales **NO** se incluyen en este repositorio.  
+Pueden descargarse desde el sitio oficial del INDEC:
+
+https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
+
+
+
