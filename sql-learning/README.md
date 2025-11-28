@@ -9,23 +9,23 @@ Introducción a comandos de definición y manipulación.
 * DDL y DML.
 * Sentencias: SELECT, COUNT, DISTINCT, LIMIT.
 
-### [Módulo 2](./sql-learning/modulo-2.sql)
+### [Módulo 2](./modulo-2.sql)
 Modificación y gestión de estructuras y datos.
 * Sentencias: ALTER, INSERT, UPDATE, DELETE, TRUNCATE.
 
-### [Módulo 3](./sql-learning/modulo-3.sql)
+### [Módulo 3](./modulo-3.sql)
 Refinamiento de búsquedas y trabajo con múltiples tablas.
 * Operadores: LIKE, ORDER BY, GROUP BY.
 * Funciones de agregación y de fecha.
 * Subconsultas, selecciones anidadas y JOIN implícito.
 
-### [Módulo 4.1](./sql-learning/modulo-4.1.ipynb)
+### [Módulo 4.1](./modulo-4.1.ipynb)
 Acceso a bases de datos con Python.
 * Creación y conexión a SQLite.
 * Operaciones CRUD.
 * Integración con Pandas DataFrames.
 
-### [Módulo 4.2](./sql-learning/modulo-4.2.ipynb)
+### [Módulo 4.2](./modulo-4.2.ipynb)
 SQL avanzado en entorno Jupyter.
 * Uso de SQL Magic (%sql y %%sql).
 * Conversión de resultados a DataFrames.
@@ -35,7 +35,7 @@ SQL avanzado en entorno Jupyter.
 
 ## Proyectos de Análisis
 
-### [Análisis Socioeconómico de Chicago](./sql-learning/analisis_socioeconomico_chicago.ipynb)
+### [Análisis Socioeconómico de Chicago](./nalisis_socioeconomico_chicago.ipynb)
 Proyecto de análisis exploratorio de indicadores reales de Chicago.
 * Carga de CSV a SQLite.
 * Consultas SQL para análisis de datos.
