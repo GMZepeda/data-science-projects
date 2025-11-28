@@ -35,7 +35,7 @@ SQL avanzado en entorno Jupyter.
 
 ## Proyectos de Análisis
 
-### [Análisis Socioeconómico de Chicago](./nalisis_socioeconomico_chicago.ipynb)
+### [Análisis Socioeconómico de Chicago](./analisis_socioeconomico_chicago.ipynb)
 Proyecto de análisis exploratorio de indicadores reales de Chicago.
 * Carga de CSV a SQLite.
 * Consultas SQL para análisis de datos.
