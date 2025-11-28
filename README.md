@@ -20,6 +20,10 @@ Repositorio con proyectos prácticos del curso de **Python for Data Science, AI 
   - [Modulo 4.2](./sql-learning/modulo-4.2.ipynb): Queries SQL en Jupyter con SQL Magic, conexión a bases SQLite, ejecución de celdas %sql y %%sql, creación de tablas, inserción de datos, lectura de resultados, conversión a DataFrames y visualización con Matplotlib/Seaborn.
   - [analisis_socioeconomico_chicago](./sql-learning/analisis_socioeconomico_chicago.ipynb): Análisis exploratorio de indicadores socioeconómicos de Chicago usando SQL y Python. 
 Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
+  - [analisis_eph](./sql-learning/EPH_2025_T2.ipynb): Análisis de la EPH Argentina (2° Trim 2025) con Python y SQLite. 
+    Carga y ETL de bases `hogar` e `individual` desde .xlsx, creación de base SQLite, uso de ponderadores (`PONDERA`, `PONDIH`), 
+    segmentación de régimen de vivienda, análisis de ingresos (IPCF) y estimación de pobreza para el Aglomerado 93.
+
 
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
