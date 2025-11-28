@@ -49,4 +49,4 @@ Proyecto de procesamiento y análisis de la Encuesta Permanente de Hogares (INDE
   * Estimación poblacional y de hogares mediante ponderadores (`PONDERA`, `PONDIH`).
   * Segmentación de régimen de tenencia de vivienda (propietarios vs. inquilinos).
   * Análisis de distribución de ingresos y estimación de pobreza según CBT.
-  * Indicadores laborales: ocupados e intensidad de trabajo horario.
+ 
