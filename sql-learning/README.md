@@ -4,7 +4,7 @@ Este repositorio documenta el progreso en los Módulos 1 al 4 del curso, enfocá
 
 ## Estructura del Repositorio
 
-### [Módulo 1](./sql-learning/modulo-1.sql)
+### [Módulo 1](./modulo-1.sql)
 Introducción a comandos de definición y manipulación.
 * DDL y DML.
 * Sentencias: SELECT, COUNT, DISTINCT, LIMIT.
