@@ -24,11 +24,24 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     Carga y ETL de bases `hogar` e `individual` desde .xlsx, creación de base SQLite, uso de ponderadores (`PONDERA`, `PONDIH`), 
     segmentación de régimen de vivienda, análisis de ingresos (IPCF) y estimación de pobreza para el Aglomerado 93.
 
-- [data-analysis-python](./data-analysis-python/README.md): Data Analysis with Python (IBM). Prácticas de análisis de datos, limpieza y modelado.
-  - **Módulo 1: Importación de conjuntos de datos**
+- [data-analysis-python](./data-analysis-python): Data Analysis with Python (IBM). Prácticas de análisis de datos, limpieza y modelado.
+  - **Módulo 1: Importación de Conjuntos de Datos**
     - [Lab 1: Introducción](./data-analysis-python/modulo-1-introduccion.ipynb): Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
     - *Lab 2: (Pendiente)*
-
+  - **Módulo 2: Organización de Datos**
+    - *Lab 1: (Pendiente)*
+    - *Lab 2: (Pendiente)*
+  - **Módulo 3: Análisis Exploratorio de Datos**
+    - *Lab 1: (Pendiente)*
+    - *Lab 2: (Pendiente)*
+  - **Módulo 4: Desarrollo de Modelos**
+    - *Lab 1: (Pendiente)*
+    - *Lab 2: (Pendiente)*
+  - **Módulo 5: Evaluación y Perfeccionamiento del Modelo**
+    - *Lab 1: (Pendiente)*
+    - *Lab 2: (Pendiente)*
+  - **Módulo 6: Asignación Final**
+    - *Proyecto Final: (Pendiente)*
 
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
