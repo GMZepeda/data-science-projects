@@ -27,7 +27,7 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
 - [data-analysis-python](./data-analysis-python): Data Analysis with Python (IBM). Prácticas de análisis de datos, limpieza y modelado.
   - **Módulo 1: Importación de Conjuntos de Datos**
     - [Lab 1: Introducción](./data-analysis-python/modulo-1-introduccion.ipynb): Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
-    - *Lab 2: (Pendiente)*
+    - [Lab 2: Laptops](./data-analysis-python/modulo-1-laptops.ipynb): Importación y exploración de un segundo dataset (Precios de Laptops).
   - **Módulo 2: Organización de Datos**
     - *Lab 1: (Pendiente)*
     - *Lab 2: (Pendiente)*
