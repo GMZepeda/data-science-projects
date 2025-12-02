@@ -25,7 +25,9 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     segmentación de régimen de vivienda, análisis de ingresos (IPCF) y estimación de pobreza para el Aglomerado 93.
 
 - [data-analysis-python](./data-analysis-python/README.md): Data Analysis with Python (IBM). Prácticas de análisis de datos, limpieza y modelado.
-  - [Módulo 1](./data-analysis-python/modulo-1-introduccion.ipynb): Introducción y Carga de Datos. Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
+  - **Módulo 1: Importación de conjuntos de datos**
+    - [Lab 1: Introducción](./data-analysis-python/modulo-1-introduccion.ipynb): Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
+    - *Lab 2: (Pendiente)*
 
 
   
