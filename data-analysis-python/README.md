@@ -8,8 +8,8 @@ Este directorio contiene los laboratorios y ejercicios prácticos del curso **"D
 **1. [Introducción al Análisis de Datos](./modulo-1-introduccion.ipynb)**
 * **Tema:** Carga de datasets (CSV), manejo de cabeceras, limpieza de valores nulos y exploración inicial (`describe`, `info`).
 
-**2. Laboratorio 2 (Pendiente)**
-* *Próximamente: Segundo laboratorio del Módulo 1.*
+**2. [Práctica: Análisis de Precios de Laptops](./modulo-1-laptops.ipynb)**
+* **Tema:** Importación de un segundo dataset (Precios de Laptops). Revisión de tipos de datos (`dtypes`), valores no nulos y estadísticas básicas de variables clave (RAM, GPU, Price).
 
 ### Módulo 2: Organización de Datos
 * **Lab 1:** (Pendiente)
