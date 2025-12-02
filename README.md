@@ -24,6 +24,9 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     Carga y ETL de bases `hogar` e `individual` desde .xlsx, creación de base SQLite, uso de ponderadores (`PONDERA`, `PONDIH`), 
     segmentación de régimen de vivienda, análisis de ingresos (IPCF) y estimación de pobreza para el Aglomerado 93.
 
+- [data-analysis-python](./data-analysis-python): Data Analysis with Python (IBM). Prácticas de análisis de datos, limpieza y modelado.
+  - [Módulo 1](./data-analysis-python/modulo-1-introduccion.ipynb): Introducción y Carga de Datos. Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
+
 
   
 Cada carpeta contiene su propio notebook con el análisis detallado. 
