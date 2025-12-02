@@ -6,7 +6,7 @@ Este directorio contiene los laboratorios y ejercicios prácticos del curso **"D
 
 ### Módulo 1: Importación de conjuntos de datos
 
-**1. [Introducción al Análisis de Datos](modulo_1_introduccion.ipynb)**
+**1. [Introducción al Análisis de Datos](./modulo-1-introduccion.ipynb)**
 * **Tema:** Carga de datasets (CSV), manejo de cabeceras, limpieza de valores nulos y exploración inicial (`describe`, `info`).
 
 **2. Laboratorio 2 (Pendiente)**
