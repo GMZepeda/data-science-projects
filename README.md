@@ -29,7 +29,7 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     - [Lab 1: Introducción](./data-analysis-python/modulo-1-introduccion.ipynb): Importación de CSV, manejo de cabeceras, limpieza de nulos y estadísticas básicas (`describe`, `info`).
     - [Lab 2: Laptops](./data-analysis-python/modulo-1-laptops.ipynb): Importación y exploración de un segundo dataset (Precios de Laptops).
   - **Módulo 2: Organización de Datos**
-    - *Lab 1: (Pendiente)*
+    - [Lab 1: Limpieza y Wrangling](./data-analysis-python/modulo-2-wrangling-automovil.ipynb): Tratamiento de datos faltantes, estandarización (mpg a L/100km) y creación de variables indicadoras.
     - *Lab 2: (Pendiente)*
   - **Módulo 3: Análisis Exploratorio de Datos**
     - *Lab 1: (Pendiente)*
