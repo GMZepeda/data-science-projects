@@ -12,8 +12,10 @@ Este directorio contiene los laboratorios y ejercicios prácticos del curso **"D
 * **Tema:** Importación de un segundo dataset (Precios de Laptops). Revisión de tipos de datos (`dtypes`), valores no nulos y estadísticas básicas de variables clave (RAM, GPU, Price).
 
 ### Módulo 2: Organización de Datos
-* **Lab 1:** (Pendiente)
-* **Lab 2:** (Pendiente)
+**1. [Lab 1: Limpieza y Wrangling de Datos](./modulo-2-wrangling-automovil.ipynb)**
+* **Tema:** Tratamiento de valores faltantes (sustitución por media y frecuencia), corrección de tipos de datos, estandarización (mpg a L/100km), normalización (Min-Max) y creación de variables indicadoras (dummy variables).
+
+*Lab 2: (Pendiente)*
 
 ### Módulo 3: Análisis Exploratorio de Datos
 * **Lab 1:** (Pendiente)
