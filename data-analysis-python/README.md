@@ -15,7 +15,8 @@ Este directorio contiene los laboratorios y ejercicios prácticos del curso **"D
 **1. [Lab 1: Limpieza y Wrangling de Datos](./modulo-2-wrangling-automovil.ipynb)**
 * **Tema:** Tratamiento de valores faltantes (sustitución por media y frecuencia), corrección de tipos de datos, estandarización (mpg a L/100km), normalización (Min-Max) y creación de variables indicadoras (dummy variables).
 
-*Lab 2: (Pendiente)*
+**2. [Lab 2: Práctica de Limpieza (Laptops)](./modulo-2-practica-laptops.ipynb)**
+* **Tema:** Manejo de datos faltantes específicos, estandarización de unidades (kg/cm a libras/pulgadas), normalización de variables continuas y creación de bins para la variable `Price`.
 
 ### Módulo 3: Análisis Exploratorio de Datos
 * **Lab 1:** (Pendiente)
