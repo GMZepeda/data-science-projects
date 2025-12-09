@@ -30,7 +30,7 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     - [Lab 2: Laptops](./data-analysis-python/modulo-1-laptops.ipynb): Importación y exploración de un segundo dataset (Precios de Laptops).
   - **Módulo 2: Organización de Datos**
     - [Lab 1: Limpieza y Wrangling](./data-analysis-python/modulo-2-wrangling-automovil.ipynb): Tratamiento de datos faltantes, estandarización (mpg a L/100km) y creación de variables indicadoras.
-    - *Lab 2: (Pendiente)*
+    - [Lab 2: Práctica de Limpieza](./data-analysis-python/modulo-2-practica-laptops.ipynb): Estandarización de unidades (kg/cm a libras/pulgadas) y normalización de variables (Laptops).
   - **Módulo 3: Análisis Exploratorio de Datos**
     - *Lab 1: (Pendiente)*
     - *Lab 2: (Pendiente)*
