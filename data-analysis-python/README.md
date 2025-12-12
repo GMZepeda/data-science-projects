@@ -18,9 +18,11 @@ Este directorio contiene los laboratorios y ejercicios prácticos del curso **"D
 **2. [Lab 2: Práctica de Limpieza (Laptops)](./modulo-2-practica-laptops.ipynb)**
 * **Tema:** Manejo de datos faltantes específicos, estandarización de unidades (kg/cm a libras/pulgadas), normalización de variables continuas y creación de bins para la variable `Price`.
 
-### Módulo 3: Análisis Exploratorio de Datos
-* **Lab 1:** (Pendiente)
-* **Lab 2:** (Pendiente)
+### Módulo 3: Análisis Exploratorio de Datos (EDA)
+**1. [Lab 1: Identificación de Variables Clave](./modulo-3-eda-automovil.ipynb)**
+* **Tema:** Correlación entre variables numéricas y precio (Pearson, P-Value). Visualización de relaciones con regresiones, boxplots y mapas de calor. Agrupación y tablas dinámicas para identificar predictores clave.
+
+*Lab 2: (Pendiente)*
 
 ### Módulo 4: Desarrollo de Modelos
 * **Lab 1:** (Pendiente)
