@@ -32,7 +32,7 @@ Carga de datos CSV a SQLite, consultas SQL y visualización de correlaciones.
     - [Lab 1: Limpieza y Wrangling](./data-analysis-python/modulo-2-wrangling-automovil.ipynb): Tratamiento de datos faltantes, estandarización (mpg a L/100km) y creación de variables indicadoras.
     - [Lab 2: Práctica de Limpieza](./data-analysis-python/modulo-2-practica-laptops.ipynb): Estandarización de unidades (kg/cm a libras/pulgadas) y normalización de variables (Laptops).
   - **Módulo 3: Análisis Exploratorio de Datos**
-    - *Lab 1: (Pendiente)*
+    - [Lab 1: Identificación de Variables Clave](./data-analysis-python/modulo-3-eda-automovil.ipynb): Correlación (Pearson/P-Value), regresiones, boxplots y mapas de calor para identificar predictores del precio.
     - *Lab 2: (Pendiente)*
   - **Módulo 4: Desarrollo de Modelos**
     - *Lab 1: (Pendiente)*
